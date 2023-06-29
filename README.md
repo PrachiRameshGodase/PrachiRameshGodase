@@ -16,7 +16,7 @@
 - 📫 How to reach me **prachigodase2@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="right" width="500"> <img src="https://media.tenor.com/2nKSTDDekOgAAAAC/coding-kira.gif" alt="prachirameshgodase" /> </p>
+<p > <img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" /> </p>
 
 <p align="left">
 </p>
