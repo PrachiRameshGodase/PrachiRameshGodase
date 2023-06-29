@@ -16,7 +16,7 @@
 - 📫 How to reach me **prachigodase2@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<img align="right" alt="coding" width="400" src="https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif">
+
 
 <p align="left">
 </p>
@@ -29,4 +29,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prachirameshgodase&show_icons=true&locale=en" alt="prachirameshgodase" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prachirameshgodase&" alt="prachirameshgodase" /></p>
-
