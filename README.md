@@ -16,7 +16,7 @@
 - 📫 How to reach me **prachigodase2@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p > <img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" /> </p>
+<p align="right" width="500"> <img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" /> </p>
 
 <p align="left">
 </p>
