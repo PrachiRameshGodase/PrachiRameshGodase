@@ -1,9 +1,7 @@
-
-[![MasterHead](https://tenor.com/search/programming-gifs)]
 <h1 align="center">Hi 👋, I'm Prachi Ramesh Godase</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prachirameshgodase&label=Profile%20views&color=0e75b6&style=flat" alt="prachirameshgodase" /> </p>
+<p align="left"> <img src="https://media.tenor.com/2nKSTDDekOgAAAAC/coding-kira.gif" alt="prachirameshgodase" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prachirameshgodase" alt="prachirameshgodase" /></a> </p>
 
@@ -31,3 +29,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prachirameshgodase&show_icons=true&locale=en" alt="prachirameshgodase" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prachirameshgodase&" alt="prachirameshgodase" /></p>
+
