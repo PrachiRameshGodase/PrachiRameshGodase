@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prachi Ramesh Godase</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://media.tenor.com/2nKSTDDekOgAAAAC/coding-kira.gif" alt="prachirameshgodase" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prachirameshgodase" alt="prachirameshgodase" /></a> </p>
 
@@ -16,7 +16,7 @@
 - 📫 How to reach me **prachigodase2@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-
+<p align="right"> <img src="https://media.tenor.com/2nKSTDDekOgAAAAC/coding-kira.gif" alt="prachirameshgodase" /> </p>
 
 <p align="left">
 </p>
