@@ -1,31 +1,35 @@
 <h1 align="center">Hi 👋, I'm Prachi Ramesh Godase</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate MERN developer from India</h3>
 
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prachirameshgodase" alt="prachirameshgodase" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<img align="right" alt="coding" width="400"
+src="">
+- 🌱 I'm currently learning **Node-JS, Express_JS**
 
 - 🔭 I’m currently working on [Mailbox](https://github.com/PrachiRameshGodase/Mail-box-using-react)
 
-- 🌱 I’m currently learning **React.js, Next.js**
+- 🌱 I’m currently learning **Node-JS, Express-JS**
+  
+- 👨‍💻 My Portfolio Website [Portfolio]
 
-- 💬 Ask me about **HTML,CSS,JS,React**
+- 💬 Ask me about **React**
 
 - 📫 How to reach me **prachigodase2@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="right" width="500"> <img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=PrachiRameshGodase&label=Profile%20views&color=0e75b6&style=flat" alt="PrachiRameshGodase" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=PrachiRameshGodase" alt="PrachiRameshGodase" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@prachigodase" target="blank"><img src="https://img.shields.io/twitter/follow/@prachigodase?logo=twitter&style=for-the-badge" alt="PrachiRameshGodase" /></a> </p>
 
-<p align="left">
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prachirameshgodase&show_icons=true&locale=en&layout=compact" alt="prachirameshgodase" /></p>
+## 🌐 Socials:
+ [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)] [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prachirameshgodase12/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@prachigodase)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prachirameshgodase&show_icons=true&locale=en" alt="prachirameshgodase" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prachirameshgodase&" alt="prachirameshgodase" /></p>
+# 💻 Tech Stack:
+ ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=PrachiRameshGodase&show_icons=true&locale=en&layout=compact" alt="PrachiRameshGodase" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=PrachiRameshGodase&show_icons=true&locale=en" alt="PrachiRameshGodase" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PrachiRameshGodase&" alt="PrachiRameshGodase" /></p>
