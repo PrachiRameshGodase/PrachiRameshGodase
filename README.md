@@ -5,10 +5,6 @@
 src="">
 - 🌱 I'm currently learning **Node-JS, Express_JS**
 
-- 🔭 I’m currently working on [Mailbox](https://github.com/PrachiRameshGodase/Mail-box-using-react)
-
-- 🌱 I’m currently learning **Node-JS, Express-JS**
-  
 - 👨‍💻 My Portfolio Website [Portfolio]
 
 - 💬 Ask me about **React**
