@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prachi Ramesh Godase</h1>
 <h3 align="center">A passionate MERN developer from India</h3>
 
-<img align="right" alt="coding" width="400"
+<img align="right" alt="coding" width="700"
 src="https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1356364303.jpg?w=1390&crop=1">
 - 🌱 I'm currently learning **Node-JS, Express_JS**
 
