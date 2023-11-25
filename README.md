@@ -2,7 +2,7 @@
 <h3 align="center">A passionate MERN developer from India</h3>
 
 <img align="right" alt="coding" width="400"
-src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftechcrunch.com%2F2023%2F03%2F22%2Fcodiumai-is-using-generative-ai-to-help-developers-build-code-logic-tests-automatically%2F&psig=AOvVaw2TcsHBALk0hocv6LR2irMV&ust=1700981476621000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKiDjvfH3oIDFQAAAAAdAAAAABBc">
+src="https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1356364303.jpg?w=1390&crop=1">
 - 🌱 I'm currently learning **Node-JS, Express_JS**
 
 - 👨‍💻 My Portfolio Website [Portfolio]
